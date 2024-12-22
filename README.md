@@ -3,7 +3,7 @@
 <br>
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=SOBIA%20MD&description=A%20PAKISTANI%20BEST%20AND%20FASTEST%20WHATSAPP%20BOT%20BY%20UD%20TEAM&image=https://files.catbox.moe/m1rf91.jpg?v=4&backgroundColor=%23ecf0f1&github=Um4r719&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=SOBIA%20MD&description=A%20PAKISTANI%20BEST%20AND%20FASTEST%20WHATSAPP%20BOT%20BY%20UD%20TEAM&image=https://files.catbox.moe/tmtn0f.jpeg?v=4&backgroundColor=%23ecf0f1&github=Um4r719&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -29,7 +29,7 @@ src="https://cardivo.vercel.app/api?name=SOBIA%20MD&description=A%20PAKISTANI%20
 
 ### <br> `HEROKU DEPLOYMENT`
 <p align="left">
-<a href="https://dashboard.heroku.com/new-app?template=https://github.com/Sobxsparl/SOBIA-MD"><img height= "35" title="Author" src="https://img.shields.io/badge/Deploy-purple?style=for-the-badge&logo=heroku"></a>
+<a href="https://dashboard.heroku.com/new-app?template=https://github.com/tanyaMashamba01/SOBIA-MD"><img height= "35" title="Author" src="https://img.shields.io/badge/Deploy-purple?style=for-the-badge&logo=heroku"></a>
 <p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
